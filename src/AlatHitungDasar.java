@@ -8,7 +8,7 @@ public class AlatHitungDasar {
         System.out.println("Hasil Perkalian: " + kali(a, b));
         System.out.println("Hasil Pembagian: " + bagi(a, b));
     }
-
+//TegarVallen
     public static double tambah(double x, double y) {
         return x + y;
     }
